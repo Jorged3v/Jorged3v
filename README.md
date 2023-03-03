@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Jorged3v/Jorged3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there!!, I'm Jorge Paz
+## _Never stop Learning_
+
+I'm a passionate **Full-stack JavaScript Developer** with a strong interest in technology and programming from Colombia
+
+_**find me around the web**_ :sparkles:
 
 Here are some ideas to get you started:
 
